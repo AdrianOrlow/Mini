@@ -1,7 +1,7 @@
 # Mini
 
 This repository contains source code of ultra-minimal personal website template made by me.
-Just edit all names & links in index.html file.
+Just edit all names and links in the index.html file.
 
 # License
 
