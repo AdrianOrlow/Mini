@@ -3,6 +3,8 @@
 This repository contains source code of ultra-minimal personal website template made by me.
 Just edit all names and links in the index.html file.
 
+Project demo is available at: https://bit.ly/2LdqtXV
+
 # License
 
 ```
